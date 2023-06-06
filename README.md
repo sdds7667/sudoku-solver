@@ -50,5 +50,5 @@ Leave 0's for the empty cells.
 
 For the extreme level sudoku, the program takes about 10-20s to solve the puzzle.
 
-## Demo
+## Demo [Takes about 20s of backtracking]
 ![Sudoku Solver](/demo.gif "Sudoku Solver")
