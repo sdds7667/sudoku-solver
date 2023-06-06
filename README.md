@@ -17,8 +17,7 @@ the right squares. The solver utilizes a backtracking algorithm to find the solu
   invalid solution, it backtracks and tries a different number.
 
 - **User-Friendly Interface**: The Sudoku solver provides a user-friendly interface that allows you to input the puzzle
-  either manually or through a file. It then displays the step-by-step process of solving the puzzle, highlighting the
-  clicked squares.
+  manually, and then can click the numbers out in a range of mobile-first apps.
 
 ## Usage
 
