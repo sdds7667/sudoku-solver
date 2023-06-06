@@ -3,6 +3,9 @@
 This project is a Sudoku solver implemented in Rust that automates the process of solving a Sudoku puzzle by clicking on
 the right squares. The solver utilizes a backtracking algorithm to find the solution for any given Sudoku puzzle.
 
+## Demo [Takes about 20s of backtracking]
+![Sudoku Solver](/demo.gif "Sudoku Solver")
+
 ## Features
 
 - **Automated Puzzle Solving**: The Sudoku solver is designed to automatically click on the correct squares in order to
@@ -50,5 +53,4 @@ Leave 0's for the empty cells.
 
 For the extreme level sudoku, the program takes about 10-20s to solve the puzzle.
 
-## Demo [Takes about 20s of backtracking]
-![Sudoku Solver](/demo.gif "Sudoku Solver")
+
